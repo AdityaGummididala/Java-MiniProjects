@@ -1,2 +1,2 @@
 # Java-MiniProjects
- A repository created for java miniprojects
+Documenting What I will be learning in Java
